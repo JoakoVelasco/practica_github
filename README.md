@@ -1,2 +1,3 @@
 # practica_github
-- alexander
+Cristian Díaz
+alexander
